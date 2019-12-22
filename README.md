@@ -16,7 +16,7 @@ programmers get to "know" the NDS they have to work with?
 It's obvious that if you don't know what the structure is and how it's put
 together, you're going to have a hard time writing code to process the NDS into
 _insight_. This lesson provides two reliable techniques for getting to know the
-NDS you have to work with.
+NDS you have to worm[row_index][:movies][column_index]k with.
 
 Here, we're going to follow our first step on the strategy we covered in the 
 last lesson:
