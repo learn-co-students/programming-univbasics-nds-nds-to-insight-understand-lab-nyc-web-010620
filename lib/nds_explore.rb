@@ -11,15 +11,7 @@ def print_first_directors_movie_titles
   movie_index = 0 
   while movie_index<directors_database[0][:movies].count do
     puts directors_database[0][:movies][movie_index][:title]
-    #columns_index = 0 
-    #while columns_index<directors_database[row_index].count do
-    #  puts directors_database[row_index][columns_index]
-    #  
-    #  
-    #  columns_index+= 1 
-    #end
-    
-    
+
     movie_index +=1 
   end
   
